@@ -1,0 +1,13 @@
+i.fa-brands.fa-square-instagram.fa-xl:hover {
+    color: blue;
+  }
+  
+  ul.list-group.list-group-horizontal {
+    background-color: none;
+  }
+  
+  ul.list-group.list-group-horizontal {
+    --bs-list-group-bg: trasnparent;
+    --bs-list-group-border-color: transparent;
+  }
+  
